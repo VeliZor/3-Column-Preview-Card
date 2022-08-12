@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    margin: ;
+    width: 1440px;
+    background-color: hsl(0, 0%, 95%);
+    display: flex;
+}
+.sedan{
+    /* border: 2px solid red; */
+    background-color: hsl(31, 77%, 52%);
+}
+.suvs{
+    /* border:2px solid blue; */
+    background-color: hsl(184, 100%, 22%);
+}
+.luxury{
+    /* border:2px solid gold; */
+    background-color:hsl(179, 100%, 13%)
+}
+p{
+    color:hsla(0, 0%, 100%, 0.75) ;
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+h1{
+    color:hsl(0, 0%, 95%) ;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+}
+button{
+    color: hsl(0, 0%, 95%);
+}
